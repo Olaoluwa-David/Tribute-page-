@@ -1,0 +1,61 @@
+.page{
+    background-color: rgb(240, 237, 237);
+    margin: auto;
+    width: 99%;
+    border-radius: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.blog{
+    background-color: white;
+    margin: auto;
+    width: 93%;
+    padding: 8px;
+}
+.image{
+    width: 100%;
+    height: 20%;
+}
+.main{
+    margin: auto;
+    width: 90%;
+}
+h1, h3{
+    text-align: center;
+    padding-top: 40px;
+}
+h1{
+    font-size: 40px;
+}
+h3{
+    padding-bottom: 20px;
+}
+strong{
+    color: rgb(43, 42, 42);
+}
+p{
+    text-align: center;
+    font-size: 15px;
+}
+.foot{
+    padding-top: 20px;
+    text-align: left;
+}
+.footer, a{
+    padding-bottom: 50px;
+}
+a{
+    color: rgb(29, 29, 165);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
